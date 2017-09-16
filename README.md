@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## This page has maintained the default content - Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/DimitriosMalonass/dm.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
