@@ -1,5 +1,7 @@
-## This page has maintained the default content - Welcome to GitHub Pages
+## title: Welcome to the Dimitrios Malonas’s homepage!
+title: Welcome to the Dimitrios Malonas’s homepage!
 
+description: Feel free to bookmark this to keep an eye on my project updates
 You can use the [editor on GitHub](https://github.com/DimitriosMalonass/dm.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
